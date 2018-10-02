@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(11): error C2131: expression did not evaluate to a constant
+  c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(11): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(11): note: see usage of 'n'
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(14): error C3863: array type 'int [k]' is not assignable
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(18): error C3863: array type 'int [k]' is not assignable
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(22): error C3863: array type 'int [k]' is not assignable
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(26): error C3863: array type 'int [n]' is not assignable
+c:\users\trang\google drive\gia_su\sort\countingsort\countingsort\source.cpp(27): error C3863: array type 'int [k]' is not assignable
+  Main.cpp
+  Generating Code...
